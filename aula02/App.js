@@ -11,7 +11,7 @@ const App = () => {
       {/* <Exercicio01 >*/}
       {/*<Exercicio02 />*/}
       {/*<Exercicio03 />*/}
-      <Exercicio04 />
+      <Exercicio04 /> 
     </View>
   )
 }
